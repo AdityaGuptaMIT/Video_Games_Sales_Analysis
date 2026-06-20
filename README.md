@@ -14,9 +14,8 @@ Visualizations Include:
 - Critic score distribution and its correlation with sales
 - Sales spread across top genres (box plot)
 
-Tech Stack:
+Libraries Used:
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
-- Jupyter Notebook
 
 Dataset: Video Game Sales (1980–2024) — Raw CSV
